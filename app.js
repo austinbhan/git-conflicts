@@ -32,3 +32,6 @@ signInForm.addEventListener('submit', async (event) => {
         console.error(user);
     }
 });
+
+console.log(`This is Austin's first code`);
+
